@@ -1,3 +1,8 @@
+# სხვა აპლიკაციების რეპოზიტორები
+
+web/main
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -67,7 +72,7 @@ instance/
 
 # Scrapy stuff:
 .scrapy
-
+git@github.com:avtandilphangani/main.git
 # Sphinx documentation
 docs/_build/
 
@@ -115,7 +120,7 @@ venv.bak/
 .spyproject
 
 # Rope project settings
-.ropeproject
+.ropeprogit@github.com:avtandilphangani/main.gitject
 
 # mkdocs documentation
 /site
