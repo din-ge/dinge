@@ -1,7 +1,7 @@
 # სხვა აპლიკაციების რეპოზიტორები
 static
 web/main
-
+photos
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
